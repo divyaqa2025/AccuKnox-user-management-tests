@@ -115,6 +115,18 @@ This confirms the user was deleted successfully.
 
 playwright==1.57.0
 👤 Author
+
+## Manual Test Cases
+Manual test cases for the User Management module are documented in:
+Manual_Test_Cases_User_Management.xlsx
+
+The test cases cover:
+- Add User
+- Search User
+- Edit User
+- Delete User
+- Validation scenarios
+
 Divya
 QA Automation Intern Candidate – AccuKnox
 
